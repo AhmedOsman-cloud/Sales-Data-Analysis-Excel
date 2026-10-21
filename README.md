@@ -18,7 +18,9 @@ This project analyzes messy, unstructured sales data for an electronics and furn
 3. Sales trended highest during **Q1 (specifically February)**, indicating a seasonal peak.
 
 ## 🖼️ Dashboard Preview
-*(قم بسحب وإفلات صورة الداشبورد هنا ليتم عرضها مباشرة)*
+
+*( <img width="1828" height="746" alt="image" src="https://github.com/user-attachments/assets/74e225c6-3f99-4adb-91e0-7dcb5a10b16c" />
+)*
 
 ## 📂 Files Included
 * `Messy_Sales_Data_Practice.xlsx`: The original raw dataset.
